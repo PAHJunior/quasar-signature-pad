@@ -6,7 +6,7 @@
 Signature Pad using Quasar
 
 ## Print
-[![N|Solid](https://github.com/PAHJunior/Quasar-Signature-Pad/blob/master/docs/SignaturePad.jpg?raw=true)](http://quasar-apexcharts.surge.sh/)
+[![N|Solid](https://github.com/PAHJunior/Quasar-Signature-Pad/blob/master/docs/SignaturePad.jpg?raw=true)](https://signature-pad.surge.sh/)
 
 ## Demo
 https://signature-pad.surge.sh/
