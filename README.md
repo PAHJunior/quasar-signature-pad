@@ -11,6 +11,9 @@ Signature Pad using Quasar
 ## Demo
 https://signature-pad.surge.sh/
 
+## References
+https://github.com/neighborhood999/vue-signature-pad
+
 ## Install the dependencies
 ```bash
 npm install
