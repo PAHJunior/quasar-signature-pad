@@ -1,7 +1,6 @@
 <template>
   <div>
     <div class="row justify-center">
-      <span>Teste do deploy automatizado</span>
       <div class="col-12 q-mt-md row justify-center">
         <VueSignaturePad
           id="signature"
